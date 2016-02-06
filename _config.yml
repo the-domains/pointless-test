@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8C0C8'
+    - '#000000'
+    - '#A89058'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.297401843427353
+  lightness: 0.6903076323355842
+  rhythmicContrast: 0.8490762996085534
+  saturation: 0.472712512477807
+cta: {}
+layout_spectrum: 0
+name: pointless test
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.664414
